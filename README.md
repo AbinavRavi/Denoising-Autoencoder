@@ -1,2 +1,3 @@
 # Denoising-Autoencoder
-Denoising Autoencoder on MNIST dataset
+Denoising Autoencoder on MNIST dataset using Pytorch
+
